@@ -1,0 +1,35 @@
+name: pamstudents
+description: "Aplikasi yang diambil dari Website unpam Creator: Indra Dwi A"
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.2.8
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^3.0.4
+  http: ^0.13.5
+
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.9.2"
+
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/logounpam.png
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logounpam.png"
