@@ -40,11 +40,11 @@ jobs:
         languages: ${{ matrix.language }}
         build-mode: ${{ matrix.build-mode }}
 
-    - name: Set up JDK 1.8
+    - name: Set up JDK 22.0.2+9
       if: matrix.language == 'java-kotlin'
       uses: actions/setup-java@v3
       with:
-        java-version: '1.8'
+        java-version: '22.0.2+9'
         distribution: 'adopt'
 
     - name: Build Java/Kotlin project
@@ -64,10 +64,15 @@ jobs:
     - name: Build C/C++ project
       if: matrix.language == 'c-cpp'
       run: |
-        mkdir build
-        cd build
-        cmake ..
-        make
+        if [ -f ./CMakeLists.txt ]; then
+          mkdir build
+          cd build
+          cmake ..
+          make
+        else
+          echo "CMakeLists.txt not found, skipping build."
+          exit 1
+        fi
 
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v3
