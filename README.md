@@ -1,6 +1,6 @@
 # pamstudents
 
-A new Flutter project.
+Download Apps in here : [https://github.com/Xnuvers007/pamstudents/releases/download/v1.2.8/Pam.Students.apk](https://github.com/Xnuvers007/pamstudents/releases/download/v1.2.8/Pam.Students.apk)
 
 ## Getting Started
 
