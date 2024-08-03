@@ -24,7 +24,7 @@ Untuk dokumentasi detail dan panduan pengguna, silakan lihat [Dokumentasi](https
 
 ## 🛠️ Berkontribusi
 
-Kami menyambut kontribusi untuk meningkatkan PamStudents! Jika Anda ingin berkontribusi, silakan periksa [Panduan Kontribusi](https://github.com/Xnuvers007/pamstudents/blob/main/CONTRIBUTING.md).
+Kami menyambut kontribusi untuk meningkatkan PamStudents! Jika Anda ingin berkontribusi, silakan periksa [Panduan Kontribusi](https://github.com/Xnuvers007/pamstudents/blob/master/CONTRIBUTING.md).
 
 ## 🧑‍🤝‍🧑 Komunitas
 
@@ -35,7 +35,7 @@ Bergabunglah dengan komunitas pengguna dan pengembang kami untuk tetap terupdate
 
 ## 📝 Lisensi
 
-PamStudents dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT). Lihat file [LICENSE](https://github.com/Xnuvers007/pamstudents/blob/main/LICENSE) untuk detail lebih lanjut.
+PamStudents dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT). Lihat file [LICENSE](https://github.com/Xnuvers007/pamstudents/blob/master/LICENSE) untuk detail lebih lanjut.
 
 Terima kasih telah memilih PamStudents. Kami harap Anda menikmati menggunakan aplikasi ini dan menemukannya bermanfaat dalam upaya pendidikan Anda!
 
@@ -65,7 +65,7 @@ For detailed documentation and user guides, please visit [Documentation](https:/
 
 ## 🛠️ Contribute
 
-We welcome contributions to enhance PamStudents! If you would like to contribute, please review our [Contribution Guide](https://github.com/Xnuvers007/pamstudents/blob/main/CONTRIBUTING.md).
+We welcome contributions to enhance PamStudents! If you would like to contribute, please review our [Contribution Guide](https://github.com/Xnuvers007/pamstudents/blob/master/CONTRIBUTING.md).
 
 ## 🧑‍🤝‍🧑 Community
 
@@ -76,6 +76,6 @@ Join our user and developer community to stay updated and share your feedback:
 
 ## 📝 License
 
-PamStudents is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/Xnuvers007/pamstudents/blob/main/LICENSE) file for more details.
+PamStudents is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/Xnuvers007/pamstudents/blob/master/LICENSE) file for more details.
 
 Thank you for choosing PamStudents. We hope you enjoy using the app and find it valuable for your educational endeavors!
