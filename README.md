@@ -4,7 +4,7 @@
 Selamat datang di **PamStudents** – pendamping utama Anda untuk akses situs web kampus **Universitas Pamulang**. Aplikasi ini dirancang untuk mempermudah perjalanan pendidikan Anda dengan memberikan akses cepat dan efisien ke berbagai sumber daya penting yang berhubungan dengan mahasiswa dan mahasiswi Universitas Pamulang.
 
 
-## 🚀 Fitur
+## 🚀 Fitur Terupdate
 
 - **Antarmuka yang Ramah Pengguna**: Navigasikan melalui desain yang ramping dan intuitif yang dirancang untuk pengalaman pengguna yang luar biasa.
 - **Aksesibilitas yang Ditingkatkan**: Akses berbagai sumber daya pendidikan dan pembaruan dari beberapa server dengan mudah.
@@ -45,7 +45,7 @@ Terima kasih telah memilih PamStudents. Kami harap Anda menikmati menggunakan ap
 
 Welcome to **PamStudents** – your premier companion for accessing **Pamulang University** campus websites. This application is crafted to streamline your educational journey by providing swift and efficient access to essential resources for students and faculty of Pamulang University.
 
-## 🚀 Features
+## 🚀 Updated Features
 
 - **User-Friendly Interface**: Navigate through a sleek and intuitive design crafted for an exceptional user experience.
 - **Enhanced Accessibility**: Easily access educational resources and updates from multiple servers.
