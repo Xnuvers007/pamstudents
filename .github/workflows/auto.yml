@@ -24,7 +24,7 @@ jobs:
           DATE=$(TZ='Asia/Jakarta' date +"%A, %d %B %Y %H:%M:%S")
           
           # Overwrite log.md with the new date and time
-          echo "Log updated at: $DATE (WIB)" > log.md
+          echo "Log updated at: $DATE (WIB)" > logs/log.md
           
           # Add and commit the changes
           git add .
